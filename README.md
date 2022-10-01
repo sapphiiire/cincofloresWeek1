@@ -1,5 +1,4 @@
 # cincofloresWeek1
-## Mary Christylle Cincoflores
-## First Activity
+## Editing the file
 
 Its a markdown file in this repository.
